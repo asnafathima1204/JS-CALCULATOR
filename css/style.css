@@ -1,0 +1,38 @@
+.calc{
+    width: 360px;
+    height:90vh;
+    background-color: rgb(238, 162, 204);
+    margin: auto;
+    text-align: center;
+    border: 10px solid rgb(217, 20, 148);
+    padding: 1em 0;
+    font-family: monospace;
+}
+#screen{
+    width: 82%;
+    height: 90px;
+    margin: 0.5em 0;
+    pointer-events: none;
+    border: 3px  solid  rgba(247, 103, 196, 0.963);
+    font-size: 25px;
+    text-align: right;
+    padding-right: 10px;
+}
+.btn-lg{
+    width: 142px;
+    box-shadow: 2px 2px 4px rgb(181, 31, 101);
+    margin: 0.3em;
+    height: 45px;
+    border:2px solid  rgba(247, 103, 196, 0.963);
+    background-color: rgb(225, 25, 148);
+    font-size: 20px;
+}
+.btn{
+    font-size: 20px;
+    width: 65px;
+    height: 65px;
+    margin: 0.5em 0.2em;
+    border: 3px  solid rgba(247, 103, 196, 0.963);
+    box-shadow: 2px 2px 5px rgb(121, 17, 90);
+    background-color: rgb(245, 218, 231) ;
+}
